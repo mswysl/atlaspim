@@ -1,8 +1,8 @@
 {
-  "name": "api",
+  "name": "atlas-pim",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "ecommerce product information management",
+  "author": "MSWYSL",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
