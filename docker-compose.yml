@@ -11,6 +11,7 @@ services:
       REDIS_PORT: 6379
       MEDUSA_URL: http://medusa:9000
       MEDUSA_API_KEY: ${MEDUSA_API_KEY:-replace-me}
+      PIM_API_KEY: ${PIM_API_KEY:-change-me}
     depends_on:
       - pim-postgres
       - redis
